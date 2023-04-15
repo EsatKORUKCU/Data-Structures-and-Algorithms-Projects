@@ -28,8 +28,11 @@ Big-O gösterimi O(n2) dir.
 Time Complexity:aradıgımız 18 sayısı ortada oldugu için Average case dir.
 
 1.Adımı :[2,3,5,8,7,9,4,15,6] 2 ile 7  sayısı yer değişti
+
 2.Adımı :[2,3,5,8,7,9,4,15,6] 3 sayısı yerinde değişiklik yok
+
 3.Adımı :[2,3,4,8,7,9,5,15,6] 5 ile 4 sayısı yer değişti.
+
 4.Adımı :[2,3,4,5,7,9,8,15,6] 8 ile 5 yer değiştirdi.
 
 
