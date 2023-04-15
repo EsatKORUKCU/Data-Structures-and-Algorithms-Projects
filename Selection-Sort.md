@@ -18,9 +18,13 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 1.Aşama : Dizideki en küçük eleman bulunur.Burada en küçük eleman 2 dir .Daha sonra 2 sayısı birinc
  sıraya yerleştiröek için 22 ile değiştirilir.
+ 
 2.Aşama : Dizideki 2 sayısından sonra en küçük eleman bulunur.En küçük eleman 6 dır. Daha sonra 6 sayısı dizinin ikinci sayısı olması için 27 ile değiştirilir.
+
 3.Aşama : Dizideki 6 sayısından sonra en küçük eleman bulunur.En küçük eleman 16 dır. 16 sayısı olması gereken yerde olduğu için değişiklik yapılmaz
+
 4.Aşama : Dizideki 16 sayısımdan sonra en küçük eleman bulunur.En küçük eleman 18 dır. Daha sonra 18 sayısı dizinin dördüncü sayısı olması için 22 ile değiştirilir.
+
 5.Aşama : Dizinin beşinci ve altınıcı elamanı olan 22 ve 27 olması gereken sırada oldukları için değişiklik yapılmaz.
 
 Big-O gösterimi O(n2) dir.
